@@ -37,14 +37,29 @@ Teste de Regressão Visual e Validação de Design Tokens.
 <p>A validação de regressão visual confirma que a nova arquitetura de cores foi aplicada com sucesso. O uso de tokens semânticos garante a padronização do Design System, enquanto a conformidade com o nível AA de acessibilidade assegura uma interface inclusiva e de alta qualidade técnica.</p>
 <p>Refatoração aprovada. O sistema agora utiliza cores semânticas padronizadas e acessíveis.</p>
 
-<hr>
-<p align="center">
-  🐞 <b>Obrigada por visitar meu teste!</b> 💻
-</p>
-<h3>💡 Conclusão</h3>
-<p>Refatoração validada com sucesso, garantindo acessibilidade e padronização visual.</p>
+Se você gostou do projeto, não esqueça de **dar uma estrelinha ⭐** para apoiar e acompanhar meus próximos projetos! 💖  
 
-<hr>
+---
+
+<div align="center">
+
+🌸 **Obrigada por acompanhar a validação deste teste!** 🌸
+
+💌 Seu apoio me motiva a continuar aprendendo e criando 💕  
+
+<img src="sakura.gif" width="220" alt="Sakura piscando fofinha">
+
+<br>
+
+✨ **Deixe uma estrelinha!** ✨  
+⭐ 👉 [Clique aqui e deixe seu apoio!](#)
+
 <p align="center">
-  🐞 <b>Obrigada por visitar meu teste!</b> 💻
+  Feito com carinho por <b>Suelem Martins</b> 💖  
 </p>
+
+</div>
+
+📍 Blumenau - SC
+📧 suelemnascinto@gmail.com
+   
